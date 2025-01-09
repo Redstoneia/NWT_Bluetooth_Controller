@@ -1,6 +1,6 @@
 This repo contains an Android app and the code for an Arduino Uno.
 
-Both were created as part of a school project by myself and a few others.
+Both were created as part of a school project by me and a few others.
 The app allows the user to control a DC motor and a servo motor (as part of a remote controlled car) with an Arduino and an Hc-06 module via Bluetooth.
 
 Circuit diagram:
